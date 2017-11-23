@@ -8,5 +8,10 @@ namespace LibB
         {
             Console.WriteLine("Helllo from project B");
         }
+
+        public void HelloFromBAgain()
+        {
+            Console.WriteLine("Helllo from project B");
+        }
     }
 }
