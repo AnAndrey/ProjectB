@@ -17,5 +17,11 @@ namespace ProjectA
         {
             Console.WriteLine("Hello guys");
         }
+        atic void SayDoubleHello()
+        {
+            Console.WriteLine("Hello guys");
+            Console.WriteLine("Hello guys");
+
+        }
     }
 }
