@@ -7,6 +7,8 @@ namespace ProjectA
         static void Main(string[] args)
         {
             Console.WriteLine("Some uniqe code of project A");
+            Console.WriteLine("Some uniqe code of project A");
+
             SayHello();
             
         }
